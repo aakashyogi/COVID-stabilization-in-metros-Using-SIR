@@ -1,1 +1,1 @@
-# COVID-stabilization-in-metros-Using-SIR
+# COVID stabilization in metros Using SIR Model
